@@ -1,0 +1,11 @@
+language: java
+jdk:
+- openjdk7
+- oraclejdk8
+
+notifications:
+  email:
+    recipients:
+    - jorgoragu@alum.us.es
+    on_success: never
+    on_failure: never
